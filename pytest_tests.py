@@ -1,3 +1,4 @@
+import pytest
 from game import word_choice, check_letter, update_underscore
 
 
