@@ -4,4 +4,4 @@
 
 [build-badge]: https://img.shields.io/travis/alenapliusnina/E1-Pytest/master.png?style=flat-square
 
-[build]: https://travis-ci.org/ githubname / reponame
+[build]: https://travis-ci.org//alenapliusnina/E1-Pytest
