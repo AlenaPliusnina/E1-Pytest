@@ -32,15 +32,15 @@ Python приложение реализующие игру в "Виселицу
     
     - Создайт виртуальное окружение:
 
-        python -m venv env
+          python -m venv env
         
     - Активировать виртуальное окружение:
 
-        source env/bin/activate
+          source env/bin/activate
         
     - Установить все требуемые зависимости:
     
-        pip install -r requirements.txt.
+          pip install -r requirements.txt.
         
 4. Запустить тесты можно командой: 
 
