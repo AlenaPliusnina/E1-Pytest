@@ -1,4 +1,4 @@
-# E1-Pytest
+# Guess word game with Pytest / Игра "Угадай слово" ("Виселица") с использованием Pytest (интеграция с Travis.ci)
 
 [![Travis][build-badge]][build]
 
